@@ -1,0 +1,1 @@
+ C:\\Users\\Usuario\\tap2024\\.dart_tool\\flutter_build\\ff448ad99da2677e7dc567ebb0aa871e\\native_assets.yaml: 
